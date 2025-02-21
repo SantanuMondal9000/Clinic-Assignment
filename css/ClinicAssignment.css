@@ -96,6 +96,9 @@ background-color: rgba(255,255,255,0.2);
 
 
 }
+.menu-active{
+    color: #00afd2 !important;
+}
 
 /* End Header */
 /* Banner */
